@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(71, 13, 13);
+}
+#topo{
+    background-color: black;
+    height: 100px;
+    margin: 0 auto;
+}
+#logo{
+    float: left;
+}
+#navbar{
+    float: right;
+
+}
+ul{
+    float: right;
+
+}
+ul > li{
+    float: left;
+    padding: 10px;
+    padding-top: 40px;
+}
+a{
+  text-decoration: none;
+  color: aliceblue;  
+}
+a:hover{
+    color: red;
+}
+#imagem{
+    border: 1px solid;
+    float: right;
+    margin-right: 0;
+    
+}
